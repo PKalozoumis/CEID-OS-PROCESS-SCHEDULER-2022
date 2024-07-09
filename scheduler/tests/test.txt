@@ -1,0 +1,7 @@
+../work/work6	1	2
+../work/work2	1	2
+../work/work5	1	2
+../work/work3	1	2
+../work/work7	1	2
+../work/work1	1	2
+../work/work4	1	2

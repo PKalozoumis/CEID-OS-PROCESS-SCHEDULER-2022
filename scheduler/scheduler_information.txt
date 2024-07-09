@@ -1,0 +1,49 @@
+FILE: tests/test.txt
+POLICY: RR
+
+
+PID 263 - CMD: ../work/work1
+--------------------------------
+Burst time: 0.848 secs
+Completion time: 6.034 secs
+Scheduler time: 6.036 secs
+
+PID 259 - CMD: ../work/work2
+--------------------------------
+Burst time: 1.688 secs
+Completion time: 10.934 secs
+Scheduler time: 10.935 secs
+
+PID 261 - CMD: ../work/work3
+--------------------------------
+Burst time: 2.538 secs
+Completion time: 15.293 secs
+Scheduler time: 15.294 secs
+
+PID 264 - CMD: ../work/work4
+--------------------------------
+Burst time: 3.380 secs
+Completion time: 18.703 secs
+Scheduler time: 18.705 secs
+
+PID 260 - CMD: ../work/work5
+--------------------------------
+Burst time: 4.236 secs
+Completion time: 21.216 secs
+Scheduler time: 21.218 secs
+
+PID 258 - CMD: ../work/work6
+--------------------------------
+Burst time: 5.072 secs
+Completion time: 22.896 secs
+Scheduler time: 22.897 secs
+
+PID 262 - CMD: ../work/work7
+--------------------------------
+Burst time: 5.915 secs
+Completion time: 23.746 secs
+Scheduler time: 23.747 secs
+
+SCHEDULER TIME: 23.748 secs
+TOTAL PROCESS COMPLETION TIME: 23.746 secs
+
